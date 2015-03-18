@@ -13,7 +13,6 @@ git init
 git config user.name
 git config user.email
 git remote add origin git@github.com:user/repo.git
-
 git add
 git commit
 
